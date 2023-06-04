@@ -22,8 +22,7 @@
  - Node.js
  - gitGit
  
- ##API documentation
- https://documenter.postman.com/preview/20001161-412b2c34-da19-4c68-b66f-283d92c54b02?environment=&versionTag=latest&apiName=CURRENT&version=latest&documentationLayout=classic-double-column&right-sidebar=303030&top-bar=FFFFFF&highlight=EF5B25
+
  
  
  ## API documentation
